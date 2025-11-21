@@ -255,6 +255,13 @@ Invoke-RestMethod -Uri "http://localhost:3000/users" `
 } | ConvertTo-Json)
 ```
 
+<img width="867" height="242" alt="image" src="https://github.com/user-attachments/assets/2a8b9042-b785-48f1-b5fe-0b001c94448f" />
+
+### Thunder Client:
+
+<img width="1382" height="406" alt="image" src="https://github.com/user-attachments/assets/754bb326-f93a-4937-977b-985a94191087" />
+
+
 ## Doublon email
 
 ```powershell
@@ -267,17 +274,32 @@ Invoke-RestMethod -Uri "http://localhost:3000/users" `
 } | ConvertTo-Json)
 ```
 
+<img width="859" height="246" alt="image" src="https://github.com/user-attachments/assets/b88dbb7b-7a21-418c-acf3-72628317a0e8" />
+
+
+### Thunder Client:
+
+<img width="1396" height="387" alt="image" src="https://github.com/user-attachments/assets/699904d9-79bb-433d-9c8b-522b74be50b6" />
+
+
 ## Supprimer un utilisateur inexistant
 
 ```powershell
 Invoke-RestMethod -Uri "http://localhost:3000/users/9999" -Method DELETE
 ```
 
+<img width="871" height="88" alt="image" src="https://github.com/user-attachments/assets/8a008967-6384-49fc-b3b7-930ffd282e76" />
+
+### Thunder Client:
+
+<img width="1396" height="222" alt="image" src="https://github.com/user-attachments/assets/def4faaa-8969-4549-81c2-0bc87072b30e" />
+
+
 ---
 
 # 7. Auteur
 
-
+Ce projet a été réalisé par **Rim Sari**, Étudiante en informatique.
 
 ---
 
