@@ -6,20 +6,20 @@ Création d'une API complète avec **Express**, **TypeScript** et **SQLite**.
 ---
 ## Sommaire
 
-1. [⚙️ Installation](#-installation)
-2. [📁 Structure du projet](#2-structure-du-projet)
-3. [🗃️ Base de données SQLite](#️-base-de-données-sqlite)
-4. [🛠️ Fonctionnalités de lAPI](#️-fonctionnalités-de-lapi)
-5. [⭐ Bonus réalisés](#-bonus-réalisés)
-6. [🧪 Tests complets](#-tests-complets)
-   - [Test du serveur](#test-du-serveur)
-   - [GET /users](#get--users)
-   - [GET /usersid](#get--usersid)
-   - [POST /users](#post--users)
-   - [PUT /usersid](#put--usersid)
-   - [DELETE /usersid](#delete--usersid)
-   - [Tests derreurs](#tests-derreurs)
-7. [👩‍💻 Auteur](#-auteur)
+1. [Installation](#1-installation-du-projet)
+2. [Structure du projet](#2-structure-du-projet)
+3. [Base de données SQLite](#3-base-de-données-sqlite)
+4. [Fonctionnalités de lAPI](4-fonctionnalités-de-lapi)
+5. [Bonus réalisés](#5-bonus-réalisés)
+6. [Tests complets](#6-tests)
+   - [Test du serveur](#61-tester-que-le-serveur-fonctionne)
+   - [GET /users](#62-get--récupérer-tous-les-utilisateurs)
+   - [GET /usersid](#63-post--ajouter-un-utilisateur)
+   - [POST /users](#64-get--récupérer-un-utilisateur-par-id)
+   - [PUT /usersid](#65-put--modifier-un-utilisateur)
+   - [DELETE /usersid](#66-delete--supprimer-un-utilisateur)
+   - [Tests derreurs](#67-tester-les-erreurs)
+7. [Auteur](#7-auteur)
 
 ---
 
