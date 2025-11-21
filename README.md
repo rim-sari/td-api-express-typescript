@@ -1,7 +1,7 @@
 
 # TP API Node.js TypeScript — Rim SARI
 
-API REST complète avec **Express**, **TypeScript** et **SQLite**.
+Création d'une API complète avec **Express**, **TypeScript** et **SQLite**.
 
 ---
 
