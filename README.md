@@ -7,7 +7,7 @@ Création d'une API complète avec **Express**, **TypeScript** et **SQLite**.
 ## Sommaire
 
 1. [⚙️ Installation](#-installation)
-2. [📁 Structure du projet](#-structure-du-projet)
+2. [📁 Structure du projet](#2-structure-du-projet)
 3. [🗃️ Base de données SQLite](#️-base-de-données-sqlite)
 4. [🛠️ Fonctionnalités de lAPI](#️-fonctionnalités-de-lapi)
 5. [⭐ Bonus réalisés](#-bonus-réalisés)
