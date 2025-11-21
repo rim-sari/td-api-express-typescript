@@ -154,6 +154,7 @@ Supprime un utilisateur par ID.
 ```powershell
 curl.exe http://localhost:3000/
 ```
+<img width="867" height="86" alt="image" src="https://github.com/user-attachments/assets/93526103-3198-49b9-b211-c367bd7bf687" />
 
 <img width="627" height="142" alt="image" src="https://github.com/user-attachments/assets/86df06f3-4f93-4b89-9e38-6d96dfd098f8" />
 
