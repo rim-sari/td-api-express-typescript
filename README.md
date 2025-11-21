@@ -4,6 +4,24 @@
 Création d'une API complète avec **Express**, **TypeScript** et **SQLite**.
 
 ---
+## Sommaire
+
+1. [⚙️ Installation](#-installation)
+2. [📁 Structure du projet](#-structure-du-projet)
+3. [🗃️ Base de données SQLite](#️-base-de-données-sqlite)
+4. [🛠️ Fonctionnalités de lAPI](#️-fonctionnalités-de-lapi)
+5. [⭐ Bonus réalisés](#-bonus-réalisés)
+6. [🧪 Tests complets](#-tests-complets)
+   - [Test du serveur](#test-du-serveur)
+   - [GET /users](#get--users)
+   - [GET /usersid](#get--usersid)
+   - [POST /users](#post--users)
+   - [PUT /usersid](#put--usersid)
+   - [DELETE /usersid](#delete--usersid)
+   - [Tests derreurs](#tests-derreurs)
+7. [👩‍💻 Auteur](#-auteur)
+
+---
 
 # 1. Installation du projet
 
@@ -122,7 +140,6 @@ Supprime un utilisateur par ID.
 | Vérification doublons                         | 
 | CRUD COMPLET                                  |
 | Persistence SQLite                            | 
-| Route GET /users/:id                          | 
 | API testée avec Thunder Client & PowerShell   | 
 
 
