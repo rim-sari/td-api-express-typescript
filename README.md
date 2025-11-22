@@ -25,20 +25,20 @@ Création d'une API complète avec **Express**, **TypeScript** et **SQLite**.
 
 # 1. Installation du projet
 
-### ✔️ Prérequis
+###  Prérequis
 
 * Node.js 
 * npm
 * VS Code
 * SQLite est déjà intégré via `better-sqlite3`
 
-### ✔️ Installation des dépendances
+###  Installation des dépendances
 
 ```bash
 npm install
 ```
 
-### ✔️ Démarrer l’API en mode développement
+### --> Démarrer l’API en mode développement
 
 ```bash
 npm run dev
@@ -97,19 +97,19 @@ CREATE TABLE IF NOT EXISTS users (
 
 # 4. Fonctionnalités de l’API
 
-## ✔️ Route GET /users
+##  Route GET /users
 
 Récupère la liste des utilisateurs depuis SQLite.
 
 ---
 
-## ✔️ Route GET /users/:id
+##  Route GET /users/:id
 
 Récupère un utilisateur par son ID.
 
 ---
 
-## ✔️ Route POST /users
+##  Route POST /users
 
 Ajoute un utilisateur avec :
 
@@ -119,14 +119,14 @@ Ajoute un utilisateur avec :
 
 ---
 
-## ✔️ Route PUT /users/:id
+##  Route PUT /users/:id
 
 Met à jour un utilisateur (partiellement ou entièrement).
 Utilise `COALESCE` → garde les valeurs inchangées.
 
 ---
 
-## ✔️ Route DELETE /users/:id
+##  Route DELETE /users/:id
 
 Supprime un utilisateur par ID.
 
