@@ -25,20 +25,20 @@ Création d'une API complète avec **Express**, **TypeScript** et **SQLite**.
 
 # 1. Installation du projet
 
-###  Prérequis
+###        Prérequis
 
 * Node.js 
 * npm
 * VS Code
 * SQLite est déjà intégré via `better-sqlite3`
 
-###  Installation des dépendances
+###        Installation des dépendances
 
 ```bash
 npm install
 ```
 
-### --> Démarrer l’API en mode développement
+###        Démarrer l’API en mode développement
 
 ```bash
 npm run dev
